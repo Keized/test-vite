@@ -1,18 +1,18 @@
 [
     {
-        "image": "src/data/images/cypress.jpeg",
+        "image": "/images/cypress.jpeg",
         "title": "Cypress"
     },
     {
-        "image": "src/data/images/selenium.png",
+        "image": "/images/selenium.png",
         "title": "Selenium"
     },
     {
-        "image": "src/data/images/seleniumide.jpg",
+        "image": "/images/seleniumide.jpg",
         "title": "SeleniumIDE"
     },
     {
-        "image": "src/data/images/squashtm.png",
+        "image": "/images/squashtm.png",
         "title": "SquashTM"
     }
 ]
