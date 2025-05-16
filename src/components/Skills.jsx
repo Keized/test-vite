@@ -55,9 +55,9 @@ function Skills() {
     }
     
     useEffect(() => {
-         getSkills('./data/devSkills.json', setdevSkills)
-         getSkills('./data/testSkills.json', setTestSkills)
-         getSkills('./data/otherSkills.json', setOtherSkills)
+         getSkills('/test-vite/data/devSkills.json', setdevSkills)
+         getSkills('/test-vite/data/testSkills.json', setTestSkills)
+         getSkills('/test-vite/data/otherSkills.json', setOtherSkills)
     }, []);
 
     return (

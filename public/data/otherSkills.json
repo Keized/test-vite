@@ -1,18 +1,18 @@
 [
     {
-        "image": "/images/jenkins.png",
+        "image": "/test-vite/images/jenkins.png",
         "title": "Jenkins"
     },
     {
-        "image": "/images/git.png",
+        "image": "/test-vite/images/git.png",
         "title": "Git"
     },
     {
-        "image": "/images/jira.png",
+        "image": "/test-vite/images/jira.png",
         "title": "Jira"
     },
     {
-        "image": "/images/figma.png",
+        "image": "/test-vite/images/figma.png",
         "title": "Figma"
     }
 ]
